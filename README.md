@@ -68,6 +68,25 @@ Me chamo Raissa Meneses Santos, tenho 19 anos e sou natural do Guarujá - SP. Cu
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"         
 />
 
+<img 
+    align="left" 
+    alt="AWS" 
+    title="AWS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"                      
+/>  
+
+<img
+    align="left" 
+    alt="AzureSqlDataBase" 
+    title="AzureSqlDataBase"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"                      
+/>                        
+
+
 <br/>
 <br/>
 
@@ -88,5 +107,6 @@ Me chamo Raissa Meneses Santos, tenho 19 anos e sou natural do Guarujá - SP. Cu
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaissaU&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+
 
 </p>
