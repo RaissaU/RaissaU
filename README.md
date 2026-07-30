@@ -2,7 +2,7 @@
 
 **`Estudante de Análise de Desenvolvimento de Sistema`**
 
-Me chamo Raissa Meneses Santos, tenho 19 anos e sou natural do Guarujá - SP. Cursando a Graduação na -Universidade Santa Cecília - Unisanta, com o curso de Implementação de Dados na Nuvem -AWS no SENAC Santos. Atualmente, estou fazendo técnico de Desenvolvimento de Front-end no SENAC Santos. Sou apaixonada por tecnologia e na parte de analista de dados.
+Me chamo Raissa Meneses Santos, tenho 20 anos e sou natural do Guarujá - SP. Cursando a Graduação na -Universidade Santa Cecília - Unisanta, com o curso de Implementação de Dados na Nuvem -AWS no SENAC Santos. Atualmente, estou fazendo técnico de Desenvolvimento de Front-end no SENAC Santos. Sou apaixonada por tecnologia e na parte de analista de dados.
 
 <p align="left">
     <a n-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
